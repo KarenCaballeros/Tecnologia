@@ -13,7 +13,7 @@
 		Direccion:<input type="text" name="direccion"><br>
 		Telefono:<input type="text" name="telefono"><br>
 		Edad:<input type="numbre" name="edad"><br>
-		</input type="submit" name= "enviar" value="Enviar">	
+		<input type="submit" name= "enviar" value="Enviar"/>	
 	</form>
 
 	<?php
