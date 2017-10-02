@@ -1,0 +1,167 @@
+
+.top{
+	background-image: url("imagenes/varios.jpg");
+	background-position: center;
+	background-size: 100%;
+	height: 600px;
+	position: relative;
+}
+.top h1{
+	color: white;
+	font-weight: normal;
+	font-size: 75px;
+	position: absolute;
+	left: 100px;
+	top: 200px;
+}
+.top h2{
+	color: white;
+	font-weight: normal;
+	font-size: 40px;
+	position: absolute;
+	left: 100px;
+	top: 10px;
+}
+
+.top h3{
+	color: black;
+	font-weight: normal;
+	width: 475px;
+	font-size: 17px;
+	text-align: center;
+	position: absolute;
+	top: 415px;
+	left: 450px;
+}
+.top .text1{
+	position: absolute;
+	top: 475px;
+	left: 450px;
+	height: 40px;
+	width: 335px;
+	border-radius: 5px;
+	color: #E6E6E6;
+	padding-left: 25px;
+}
+.top .button1{
+	position: absolute;
+	top: 475px;
+	left:835px;
+	height: 45px;
+	width: 100px;
+	border-radius: 5px;
+	background-color: #15B925;
+}
+.top .button1 strong{
+	color: white;
+}
+.middle{
+	background: white;
+	height: 250px;
+}
+.middle h1{
+	color: green;
+	font-weight: normal;
+	padding-top: 30px;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom: 0px;
+}
+.middle p{
+	color: blue;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 0px;
+}
+.middle2{
+	height: 400px;
+}
+.middle3{
+	height: 400px;
+}
+.middle4{
+	height: 400px;
+}
+.middle2 .image{
+	background-image: url("imagenes/perro1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.middle3 .image{
+	background-image: url("imagenes/perro2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+.middle4 .image{
+	background-image: url("imagenes/perro3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.col{
+	background: #15B925;
+	box-sizing: border-box;
+	width: 50%;
+	height: 100%;
+	float: right;
+	padding: 50px;
+}
+.middle3 .col{
+	background: #15B925;
+	box-sizing: border-box;
+	width: 50%;
+	height: 100%;
+	float: left;
+	padding: 50px;
+}
+.col{
+	background: #15B925;
+	box-sizing: border-box;
+	width: 50%;
+	height: 100%;
+	float: right;
+	padding: 50px;
+}
+.col h1{
+	color: white;
+	padding-top: 30px;
+	font-weight: normal;
+}
+.col p{
+	color: white;
+}
+.col .button2{
+	height: 45px;
+	width: 125px;
+	border-radius: 5px;
+	background-color: white;
+}
+.col .button3{
+	height: 45px;
+	width: 125px;
+	border-radius: 5px;
+	background-color: white;
+}
+.col .button4{
+	height: 45px;
+	width: 125px;
+	border-radius: 5px;
+	background-color: white;
+}
+.col .button2 strong{
+	color: #15B925;}
+
+.col .button3 strong{
+	color: #15B925;
+}
+.col .button4 strong{
+	color: #15B925;
+}
